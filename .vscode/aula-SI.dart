@@ -112,7 +112,7 @@ void main() {
     nomes.removeAt(0);
 
     for (var nome in nomes) {
-      print(nome); w
+      print(nome); 
     }
   } */
 
